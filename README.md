@@ -4,6 +4,8 @@
 
 The **CIPHE CMP App** is an interactive tool designed to streamline and structure workflows for analyzing computational cytometry (CMP) data. It enables researchers to process large numbers of FCS files, integrating preprocessing, quality control, debarcoding, annotation, and prediction steps within a single user-friendly interface.
 
+Download the complete tutorial  : [CIPHE_CMP_app_tutorial.pdf](CIPHE_CMP_app-tutorial.pdf)
+
 ## Features
 
 - ✅ Support for three workflow modes:
@@ -88,4 +90,3 @@ Use UMAP visualization for annotation QC before applying annotations to the full
 
 
 
-[CIPHE_CMP_app_tutorial.pdf](CIPHE_CMP_app-tutorial.pdf)
