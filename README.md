@@ -13,12 +13,12 @@ Download the complete tutorial  : [CIPHE_CMP_app_tutorial.pdf](CIPHE_CMP_app-tut
   2. Population analysis with barcoding
   3. Single population analysis with barcodes
 
-- Step-by-step data loading and project management
+
 - Preprocessing tools including normalization and FlowQC
 - Debarcoding via VAEVICTIS and manual gating
 - Cell population annotation using Scyan or Scaffold
 - Marker prediction using pyInfinityFlow
-- Built-in backup and restore functionality
+
 
 ---
 
