@@ -41,7 +41,7 @@ The **CIPHE CMP App** is an interactive tool designed to streamline and structur
 - Optionally upload saved RDS backups.
 
 
-### 2. 🔬 Preprocessing
+### 2. Preprocessing
 
 **Normalization Between Plates**
 - Bead gating and doublet removal.
@@ -67,14 +67,13 @@ The **CIPHE CMP App** is an interactive tool designed to streamline and structur
 
 ### 4. Annotation
 Annotate cell populations using:
-- **Scyan** with a knowledge matrix or single-population FCS files.
+- **Scyan** with a knowledge matrix or reference annotated FCS files.
 - **Scaffold** with CLARA clustering and scaffold map creation.
 
 Use UMAP visualization for annotation QC before applying annotations to the full dataset.
 
 ### 5.  pyInfinityFlow
 - Predict missing markers from backbone markers using xgboost.
-- Upload plate-specific TXT metadata.
 - Define markers, run predictions, and generate statistics.
 
 ---
